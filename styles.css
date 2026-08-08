@@ -1,0 +1,104 @@
+:root {
+  --bg: #fbfaf8;
+  --ink: #1e1c1a;
+  --muted: #6b6560;
+  --accent: #3a5a40;
+  --line: #e4e0da;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Georgia", "Iowan Old Style", serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+.wrapper {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+}
+
+header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 1.5rem;
+}
+
+h1 {
+  font-size: 1.6rem;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.4rem;
+}
+
+.tagline {
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-style: italic;
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+nav a {
+  display: block;
+  padding: 0.9rem 1rem;
+  text-decoration: none;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+nav a:hover,
+nav a:focus-visible {
+  border-color: var(--accent);
+  background: #f2f5f0;
+}
+
+nav a::after {
+  content: "→";
+  float: right;
+  color: var(--accent);
+}
+
+article h2 {
+  font-size: 1.4rem;
+  margin-top: 0;
+}
+
+article p {
+  margin: 1rem 0;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 2rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.85rem;
+}
