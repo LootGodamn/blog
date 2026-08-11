@@ -7,3 +7,4 @@ If you're seeing this as a github repo, you can access the webpage [here](https:
 Pick something of your taste
 
 1. [Worlds After Worlds](WorldsAfterWorlds.md)
+2. [No Effort Wasted](NoEffortWasted.md)
