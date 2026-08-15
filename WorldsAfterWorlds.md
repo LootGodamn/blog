@@ -36,6 +36,6 @@ More additions with archipelagos on the sides and a smaller island to bring vari
 ![[2026-08-12_04.09.58_x-3072_z-3072.png|600]]
 The version that had the biome variety balanced using an island almost as big as the main one.
 
-After toiling away with my computer at this, I finally sat back down and thought about the story again. If you haven't noticed, I basically put the lore thoughts on hold the entire time and tried to fit it back into the new world like a corporation referencing a decade old meme to appeal to the 'youth'. Much like the example, it just didn't work. 
+After toiling away with my computer at this, I finally sat back down and thought about the story again. If you haven't noticed, the lore has been on hold the entire time. So, I basically tried to fit it back in like a corporation referencing a meme from a decade ago in their ad. Much like the example, it just didn't work. 
 
 Since my initial idea locked the gods to the land, the sea and so on, it meant that well.. the land didn't really have much to work with while the sea would be noticeably overpowering. I didn't like the thought of a power imbalance between the deities mainly because I never really wanted to powerscale them from the start. They were gods; they were always meant to be something we couldn't and should never attempt to measure by our own puny standards. 
