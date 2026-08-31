@@ -1,0 +1,11 @@
+Do you think the fish know that their colors imitate the very sky? Do you think that maybe the whale sharks realize their spots are drawn like stars?
+
+I saw a quote on the internet talking about whether fish ever wonder what goes on beyond the bodies of water that separate them from the atmosphere. And it made me wonder how similar we could be if they were ever aware of it all. 
+
+Of course, they most probably don't think much about it. But I'd like to think they do. I'd like to think that maybe they liked how pretty the night sky was, and wanted a piece of it on themselves too. Maybe they meant to imitate, just as we get tattoos of what we love. 
+
+Fish tend to have a white underbelly and a blue topside when they're not meant to camouflage in colorful environments like corals. Both the white and blue serve one purpose, to blend with the environment as seen from that perspective. The underbelly looks like a part of the sunlight shining down from above to the other fish below. And the blue and sometimes with a touch of whites up top are hard to distinguish from the shimmering sea floor. 
+
+When you're born in an environment surrounded by something that disperses light more and more the deeper it goes, your eyesight tends to take less priority compared to land-based lifeforms. And so a typical shark you see on television is actually doing pretty good at hiding itself visually. 
+
+But what if it wasn't all there is? What if a lemon shark wanted that little tint. What if a lionfish knew how fabulous it looked? Maybe that's why lionfish are so invasive and overconfident, they probably want the world to see the designs they developed through a lifetime. And maybe the arowana know how beautiful their scales are, and grow as big as they can for everyone to see. It's all a silly way to think about what we've already quite 'figured out'. But isn't it nice? To let your mind wander without boundaries for a while. I hope that even if not every living thing isn't aware of any of this, they'll be able to flow through the rivers of their own mind and follow the mental currents.
