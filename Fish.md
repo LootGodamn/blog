@@ -1,3 +1,4 @@
+# Fish
 Do you think the fish know that their colors imitate the very sky? Do you think that maybe the whale sharks realize their spots are drawn like stars?
 
 I saw a quote on the internet talking about whether fish ever wonder what goes on beyond the bodies of water that separate them from the atmosphere. And it made me wonder how similar we could be if they were ever aware of it all. 
